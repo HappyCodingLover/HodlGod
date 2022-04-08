@@ -1,0 +1,3 @@
+# HodlGod Website Frontend
+
+Stack: Vue.js, Vuex, SCSS and more...
